@@ -1,0 +1,19 @@
+{
+  "name": "Recorderjs",
+  "version": "0.1.0",
+  "description": "A plugin for recording/exporting the output of Web Audio API nodes",
+  "main": "recorder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mattdiamond/Recorderjs"
+  },
+  "author": "https://github.com/mattdiamond",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattdiamond/Recorderjs/issues"
+  },
+  "homepage": "https://github.com/mattdiamond/Recorderjs"
+}
